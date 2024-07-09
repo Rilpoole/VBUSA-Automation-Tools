@@ -1,8 +1,8 @@
-I 1 POP
+1 POP
 
-I 2 Sleeves
-I 2 Neoprene
+2 Sleeves
+2 Neoprene
 
-I 1 Net
+1 Net
 
 F 350.00
